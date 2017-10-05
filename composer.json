@@ -1,0 +1,9 @@
+{
+    "name": "masterpass/merchantcheckoutsdk",
+    "version":"2.0.0",
+    "description": "PHP Masterpass Merchant Checkout SDK",
+	"require": {
+		"php": ">=5.5.0",
+		"masterpass/mpasscoresdk":"2.0.0"
+	}
+}
