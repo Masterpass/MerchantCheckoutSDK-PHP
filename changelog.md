@@ -1,5 +1,13 @@
 # Change Log
 
+## Version 2.2.0
+
+_2017-12-08_
+
+### Features
+* Added support for encrypted payment data endpoint.
+
+
 ## Version 2.1.0
 
 _2017-10-05_
