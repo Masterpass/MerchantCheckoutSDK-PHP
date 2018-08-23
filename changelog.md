@@ -1,5 +1,12 @@
 # Change Log
 
+## Version 2.3.0
+
+_2018-08-24_
+
+### Features
+*   Added external data field in PaymentDataApi query parameter, ExpressCheckoutRequest model and in PaymentData API.
+
 ## Version 2.2.0
 
 _2017-12-08_
