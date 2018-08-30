@@ -30,7 +30,7 @@ MastercardMerchantCheckout SDK v7 :
  ```
  {
   "require": {
-  	"masterpass/merchantcheckoutsdk":"2.2.0"
+  	"masterpass/merchantcheckoutsdk":"2.3.0"
    }
  }
 ```
